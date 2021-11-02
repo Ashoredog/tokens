@@ -1,0 +1,11 @@
+{
+ "name": "Ashoredogr",
+ "website": "https://Ashoredog.top",
+ "description": "Global computing power.",
+ "explorer": "https://bscscan.com/token/0xb353efDC9AE2553767e41798BBc9dAf842b4a431",
+ "type": "BEP20",
+ "symbol": "ADOG",
+ "decimals":  9,
+ "status": "active",
+ "id": "0xb353efDC9AE2553767e41798BBc9dAf842b4a431"
+}
